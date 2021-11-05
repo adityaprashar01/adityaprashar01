@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityaprashar01
 - 👀 I’m interested in programming
-- 🌱 I’m currently python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python projects
 - 📫 Reach me at adityaprashar03@gmail.com
 
