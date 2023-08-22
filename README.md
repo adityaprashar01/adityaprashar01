@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center"> Hey there, fellow code adventurer!🚀 I'm Aditya Prashar😎 </h1>
+<h1 align="center">👋 Hey there, fellow code adventurer!🚀 I'm Aditya Prashar😎 </h1>
 
 <h3 align="center">🚀 Welcome to my quirky corner of the coding universe! 🌌 I'm just a curious human with a passion for turning caffeine into code and pixels into magic.🔥</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif">
